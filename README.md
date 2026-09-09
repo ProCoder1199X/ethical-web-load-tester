@@ -121,9 +121,9 @@ python web_load_tester.py \
 For security reasons, this tool has been removed from github (On april 8, 2026) .  
 However for educational purposes, you can access this, but not for free.  Email me : **dheeraj1018279@gmail.com**
 
-Bitcoin Wallet Address: 1A1z7agoat8Bt8ShJvzjCosePC98xxxx
+ETH wallet: 0xFc62648CafDC8efeD3227a2c9dD5A46349cFF954
 
-Contribution Amount: $100
+Contribution Amount: $150
 
 ---
 
